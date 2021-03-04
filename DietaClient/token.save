@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Utente> 
+  <Tipologia>dottore</Tipologia>  
+  <Genere>Uomo</Genere>  
+  <Eta>38</Eta>  
+  <Nome_utente>DrBianchi</Nome_utente>  
+  <Nome>Paolo</Nome>  
+  <Cognome>Bianchi</Cognome> 
+</Utente>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IMPOSTAZIONI>
+  <PROTOCOL>http</PROTOCOL>
+  <SERVER_PORTA>8085</SERVER_PORTA>
+  <SERVER_ADDRES>localhost</SERVER_ADDRES>
+</IMPOSTAZIONI>

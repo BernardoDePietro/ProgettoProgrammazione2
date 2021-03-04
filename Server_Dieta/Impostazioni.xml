@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IMPOSTAZIONI>
+  <DROPBOX_ACCESS_TOKEN>7LkRf7A9jAAAAAAAAAAEQHBxpWy7r9ThPCrQXUHywhvNXWLwr0HYAfrShHEdkGxC</DROPBOX_ACCESS_TOKEN>
+  <LINKEDIN_CLIENT_SECRET>LteDQhXqtoyrvPDh</LINKEDIN_CLIENT_SECRET>
+  <LINKEDIN_URL_CALLBACK>http://localhost:8085/linkedin/code</LINKEDIN_URL_CALLBACK>
+  <LINKEDIN_SCOPES>r_liteprofile r_emailaddress</LINKEDIN_SCOPES>
+  <x-rapidapi-key>8478b34191msh71c1cc04eda9584p1492a6jsn103b723bfcc7</x-rapidapi-key>
+  <DROPBOX_CONFIG>foa9le9cb0eranp</DROPBOX_CONFIG>
+  <x-rapidapi-host>edamam-edamam-nutrition-analysis.p.rapidapi.com</x-rapidapi-host>
+  <PORT_DATABASE>3306</PORT_DATABASE>
+  <address_apirest>https://edamam-edamam-nutrition-analysis.p.rapidapi.com/api/nutrition-data?ingr=1%20</address_apirest>
+  <KEYSTORE_PASSWORD>pass</KEYSTORE_PASSWORD>
+  <LINKEDIN_CLIENT_ID>78khcb3cczkr0z</LINKEDIN_CLIENT_ID>
+  <PORT_SERVER>8085</PORT_SERVER>
+  <USER_DATABASE>root</USER_DATABASE>
+  <SERVER_DATABASE>localhost</SERVER_DATABASE>
+  <PATH_KEYSTORE>C:\Users\paolo\Documents\NetBeansProjects\Server_Dieta\sparkserver.jks</PATH_KEYSTORE>
+  <PASS_DATABASE></PASS_DATABASE>
+  <NAME_DATABASE>diet_db</NAME_DATABASE>
+</IMPOSTAZIONI>

@@ -1,0 +1,23 @@
+{
+  "Breakfast": {
+    "0": "Milk",
+    "1": "Tea",
+  },
+  "Snack": {
+    "0": "Fruit",
+    "1": "Yogurt",
+    "2": "Chocolate",
+    "3": "Dried fruit"
+  },
+  "Lunch": {
+    "0": "Pasta",
+    "1": "White meat",
+    "2": "Red meat",
+    "3": "Fish",
+  },
+  "Dinner": {
+    "0": "Fish",
+    "1": "Red meat",
+    "2": "White meat",
+  }
+}

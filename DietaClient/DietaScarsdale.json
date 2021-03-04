@@ -1,0 +1,22 @@
+{
+  "colazione": {
+    "0": "Milk",
+    "1": "Tea",
+  },
+  "spuntino": {
+    "0": "Fruit",
+    "1": "Yogurt",
+    "2": "Chocolate",
+    "3": "Dried fruit"
+  },
+  "pranzo": {
+    "0": "White meat",
+    "1": "Red meat",
+    "2": "Fish",
+  },
+  "cena": {
+    "0": "Fish",
+    "1": "Red Meat",
+    "2": "White Meat",
+  }
+}

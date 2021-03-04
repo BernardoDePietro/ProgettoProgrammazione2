@@ -1,0 +1,128 @@
+{ "Breakfast": {
+    "Milk": {
+      "0": "Milk with Cereals",
+      "1": "Milk with Cookies",
+      "2": "Milk with Rusks with Jam",
+    },
+    "Tea": {
+      "0": "Tea with Cookies",
+      "1": "Tea with Rusks with Jam",
+    },
+  },
+  "Snack": {
+    "Yogurt": {
+      "0": "Light yogurt",
+    },
+    "Fruit": {
+      "0": "Apple",
+      "1": "Pineapple",
+      "2": "Banana",
+      "3": "Kiwi",
+      "4": "Pear",
+      "5": "Orange",
+    },
+    "Dried fruit": {
+      "0": "Almonds",
+      "1": "Walnuts",
+      "2": "Hazelnuts",
+    },
+    "Chocolate": {
+      "0": "Dark Chocolate",
+    },
+  },
+  "Lunch": {
+    "Pasta": {
+      "0": "Whole wheat pasta",
+    },
+    "White meat": {
+      "0": "Rabbit loin",
+      "1": "Chicken thigh",
+      "2": "Thigh Turkey",
+      "3": "Chicken breast",
+      "4": "Turkey breast",
+      "5": "Rabbit fillet",
+      "6": "Chicken fillet",
+      "7": "Chicken burger",
+      "8": "Rabbit burger",
+    },
+    "Red meat": {
+      "0": "Veal walker",
+      "1": "Veal nut",
+      "2": "Veal loin",
+      "3": "Pork loin",
+      "4": "Lamb loin",
+      "5": "Veal breast",
+      "6": "Fillet beef",
+      "7": "Veal Fillet",
+      "8": "Beef burger",
+      "9": "Veal burger",
+    },
+    "Side dish": {
+      "0": "Tomato salad",
+      "1": "Stewed tomatoes",
+      "2": "Roasted tomatoes",
+      "3": "Vegetables saladger",
+      "4": "Pepperoni",
+      "5": "Peppers",
+      "6": "Cucumbers",
+      "7": "Lattuce",
+      "8": "Carrots",
+    },
+    "Fish": {
+      "0": "Cod baked",
+      "1": "Sole",
+      "2": "Grilled seabass",
+      "3": "Baked sea bass",
+      "4": "Baked flounder",
+      "5": "Baked sea bream",
+      "6": "Grilled sea bream",
+      "7": "Octopus"
+    },
+  },
+  "Dinner": {
+    "White meat": {
+      "0": "Rabbit loin",
+      "1": "Chicken thigh",
+      "2": "Thigh Turkey",
+      "3": "Chicken breast",
+      "4": "Turkey breast",
+      "5": "Rabbit fillet",
+      "6": "Chicken fillet",
+      "7": "Chicken burger",
+      "8": "Rabbit burger",
+    },
+    "Red meat": {
+      "0": "Veal walker",
+      "1": "Veal nut",
+      "2": "Veal loin",
+      "3": "Pork loin",
+      "4": "Lamb loin",
+      "5": "Veal breast",
+      "6": "Fillet beef",
+      "7": "Veal Fillet",
+      "8": "Beef burger",
+      "9": "Veal burger",
+    },
+    "Side dish": {
+      "0": "Tomato salad",
+      "1": "Stewed tomatoes",
+      "2": "Roasted tomatoes",
+      "3": "Vegetables saladger",
+      "4": "Pepperoni",
+      "5": "Peppers",
+      "6": "Cucumbers",
+      "7": "Lattuce",
+      "8": "Carrots",
+    },
+    "Fish": {
+      "0": "Cod baked",
+      "1": "Sole",
+      "2": "Grilled seabass",
+      "3": "Baked sea bass",
+      "4": "Baked flounder",
+      "5": "Baked sea bream",
+      "6": "Grilled sea bream",
+      "7": "Octopus"
+    }
+  }
+}
